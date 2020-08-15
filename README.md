@@ -4,7 +4,7 @@
         To create a tidy data set by merging training and testing data set.
 # Steps to run the code
         ->Download the zip file from url="https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip"
-        ->extract zip file to your working directory
+        ->extract zip file and copy all files from folder UCI HAR Dataset to your working directory
         ->Download the R code in your working directory
         ->Execute the R code to generate tidy data
 # Data description
